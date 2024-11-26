@@ -1,0 +1,6 @@
+description: YAML 1.1 parser and emitter for Java 
+versions:
+  - number: 2.3
+    isAnnotationProcessor: false
+    artifactUrl: https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.3/snakeyaml-2.3.jar
+    transientDependencies: []
