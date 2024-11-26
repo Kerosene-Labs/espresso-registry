@@ -2,7 +2,7 @@ description: A programmable TLS HTTP/1.1 server written with no dependencies. Th
 versions:
   - number: 0.4.1-hotfix1
     isAnnotationProcessor: false
-    artifactUrl: https://github.com/Kerosene-Labs/kindling/releases/download/v0.4.1/kindling.jar
+    artifactUrl: https://github.com/Kerosene-Labs/kindling/releases/download/v0.4.1-hotfix1/kindling.jar
     transientDependencies: []
   - number: 0.4.1
     isAnnotationProcessor: false
