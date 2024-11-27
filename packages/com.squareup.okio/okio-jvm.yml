@@ -1,0 +1,6 @@
+description: A modern I/O library for Android, Java, and Kotlin Multiplatform.
+versions:
+  - number: 3.9.1
+    isAnnotationProcessor: false
+    artifactUrl: https://repo1.maven.org/maven2/com/squareup/okio/okio-jvm/3.9.1/okio-jvm-3.9.1.jar
+    transientDependencies: []
