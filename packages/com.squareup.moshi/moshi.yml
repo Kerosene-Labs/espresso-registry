@@ -1,0 +1,6 @@
+description: A modern JSON API for Android and Java.
+versions:
+  - number: 1.15.1
+    isAnnotationProcessor: false
+    artifactUrl: https://repo1.maven.org/maven2/com/squareup/moshi/moshi/1.15.1/moshi-1.15.1.jar
+    transientDependencies: []
